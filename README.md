@@ -35,14 +35,6 @@ Currently, I'm continuously improving my skills in **React, JavaScript, Node.js,
 
 </div>
 
-### Frontend Concepts
-
-* Component-Based Architecture
-* Responsive Web Design
-* React Hook
-* API Integration
-* Mobile-First Desig
-
 ---
 
 # ⚙️ Backend Development
@@ -56,15 +48,6 @@ Currently, I'm continuously improving my skills in **React, JavaScript, Node.js,
 
 </div>
 
-### Backend Concepts
-
-* Node.js
-* Express.js
-* MVC / Service-Based Architecture
-* Authentication & Authorization
-* JWT Authentication
-* CORS
-
 ---
 
 # 🗄️ Database & Data
@@ -75,12 +58,6 @@ Currently, I'm continuously improving my skills in **React, JavaScript, Node.js,
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 </div>
-
-### Database Skills
-
-* Database Design
-* Data Modeling
-* MongoDB
 
 ---
 
@@ -110,13 +87,6 @@ Currently, I'm continuously improving my skills in **React, JavaScript, Node.js,
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
 
 </div>
-
-### Development Tools
-
-* Git & GitHub
-* Visual Studio Code
-* Vite
-* npm
 
 ---
 
@@ -168,7 +138,6 @@ I'm always interested in learning, collaborating, and building useful software.
 If you're working on an interesting project or looking for a developer to collaborate with, feel free to connect with me.
 
 <div align="center">
-## 🤝 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ttegenew@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tebie-tegenew/)
