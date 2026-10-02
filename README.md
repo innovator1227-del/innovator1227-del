@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Tebie 👋
 
 <!--
 **innovator1227-del/innovator1227-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
