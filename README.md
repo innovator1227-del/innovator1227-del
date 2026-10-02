@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tebie Tegenew
+#  Hi, I'm Tebie Tegenew
 
 ### Full-Stack Developer | React.js | Node.js | JavaScript
 
@@ -19,7 +19,6 @@ Currently, I'm continuously improving my skills in **React, JavaScript, Node.js,
 * 🎨 Interested in clean UI/UX and responsive design
 * 📦 Experienced with state management using **Zustand**
 * 🔄 Working with API data using **Axios & TanStack Query**
-* 🧪 Using Postman to test and debug REST APIs
 * 🌱 Continuously learning and improving my software engineering skills
 * 🤝 Interested in collaborating on meaningful software projects
 
@@ -45,17 +44,9 @@ Currently, I'm continuously improving my skills in **React, JavaScript, Node.js,
 
 * Component-Based Architecture
 * Responsive Web Design
-* React Hooks
-* React Router
-* Context API
-* State Management
-* Form Handling
-* Protected Routes
-* Search & Filtering
-* Reusable Components
-* UI Animations
+* React Hook
 * API Integration
-* Mobile-First Design
+* Mobile-First Desig
 
 ---
 
@@ -74,19 +65,10 @@ Currently, I'm continuously improving my skills in **React, JavaScript, Node.js,
 
 * Node.js
 * Express.js
-* RESTful API Development
 * MVC / Service-Based Architecture
-* CRUD Operations
 * Authentication & Authorization
 * JWT Authentication
-* Role-Based Access Control
-* Middleware
-* API Validation
-* Error Handling
 * CORS
-* Environment Variables
-* Password Hashing
-* API Testing
 
 ---
 
@@ -102,13 +84,8 @@ Currently, I'm continuously improving my skills in **React, JavaScript, Node.js,
 ### Database Skills
 
 * Database Design
-* CRUD Operations
 * Data Modeling
 * MongoDB
-* MySQL
-* Querying
-* Relationships
-* Data Validation
 
 ---
 
@@ -122,13 +99,7 @@ Currently, I'm continuously improving my skills in **React, JavaScript, Node.js,
 
 </div>
 
-* Zustand
-* TanStack Query
-* Axios
-* Context API
-* Local Storage
-* API State Management
-* Client State Management
+
 
 ---
 
@@ -148,14 +119,9 @@ Currently, I'm continuously improving my skills in **React, JavaScript, Node.js,
 ### Development Tools
 
 * Git & GitHub
-* GitHub Codespaces
 * Visual Studio Code
-* Postman
 * Vite
 * npm
-* Chrome DevTools
-* GitHub Pull Requests
-* GitHub Issues
 
 ---
 
@@ -169,53 +135,6 @@ Currently, I'm continuously improving my skills in **React, JavaScript, Node.js,
 
 The platform focuses on product discovery, seller listings, authentication, categories, search, orders, and administrative management.
 
-### Key Features
-
-* 👤 User Registration & Login
-* 🔐 Authentication & Protected Routes
-* ✅ User Verification Flow
-* 🛍️ Product Listings
-* 🔎 Product Search
-* 🏷️ Product Categories
-* ❤️ Wishlist
-* 🛒 Shopping Cart
-* 📦 Order Management
-* 🔍 Product Filtering
-* 👨‍💼 Admin Dashboard
-* 📊 Admin Statistics
-* 👥 User Management
-* 📋 Listing Management
-* ⚙️ Category Management
-* 🎨 Theme System
-* 📱 Responsive Design
-* ✨ Framer Motion Animations
-
-### Tech Stack
-
-**Frontend**
-
-* React.js
-* JavaScript
-* React Router
-* Tailwind CSS
-* Zustand
-* Framer Motion
-* Axios
-
-**Backend**
-
-* Node.js
-* Express.js
-* REST API
-
-**Tools**
-
-* Git
-* GitHub
-* Vite
-* VS Code
-* Postman
-
 ---
 
 ## 🏪 Geberew Market
@@ -226,28 +145,6 @@ The platform focuses on product discovery, seller listings, authentication, cate
 
 The project includes buyer-focused functionality for discovering listings and interacting with marketplace content.
 
-### Key Features
-
-* 🏠 Buyer Marketplace
-* 🔎 Browse Listings
-* 📦 Listing Display
-* 🔍 Search & Discovery
-* 📱 Responsive Interface
-* 🔗 API Integration
-* 🧩 Reusable React Components
-* ⚡ Fast Frontend Experience
-
-### Tech Stack
-
-* React.js
-* JavaScript
-* Tailwind CSS
-* React Router
-* Node.js
-* Express.js
-* REST APIs
-* Axios
-* Git & GitHub
 
 ---
 
@@ -259,50 +156,6 @@ A web-based **car rental platform** designed to provide users with an easy way t
 
 The project focuses on creating a practical platform with a modern interface and structured backend architecture.
 
-### Key Features
-
-* 🚘 Browse Available Cars
-* 🔎 Search & Filter Vehicles
-* 📋 Vehicle Details
-* 👤 User Authentication
-* 📅 Rental Management
-* 📦 Booking Management
-* 🔐 Protected Routes
-* 👨‍💼 Administrative Management
-* 📱 Responsive UI
-* 🔄 REST API Integration
-
-### Tech Stack
-
-* React.js
-* JavaScript
-* Tailwind CSS
-* Node.js
-* Express.js
-* REST API
-* MongoDB
-* Axios
-* Git & GitHub
-
----
-
-# 🧰 My Tech Stack
-
-| Category                | Technologies                         |
-| ----------------------- | ------------------------------------ |
-| **Languages**           | JavaScript, HTML5, CSS3              |
-| **Frontend**            | React.js, React Router, Tailwind CSS |
-| **Backend**             | Node.js, Express.js                  |
-| **State Management**    | Zustand, Context API                 |
-| **Data Fetching**       | TanStack Query, Axios                |
-| **Database**            | MongoDB, MySQL                       |
-| **Authentication**      | JWT, bcrypt                          |
-| **API**                 | REST API                             |
-| **Animation**           | Framer Motion                        |
-| **Build Tools**         | Vite, npm                            |
-| **Testing / API Tools** | Postman                              |
-| **Version Control**     | Git, GitHub                          |
-| **Development**         | VS Code, GitHub Codespaces           |
 
 ---
 
@@ -330,18 +183,6 @@ I'm continuously expanding my knowledge in:
 
 My goal is to become a strong **Full-Stack Software Engineer** capable of designing, developing, testing, and deploying production-ready applications.
 
-I'm particularly interested in:
-
-* 🚀 Building scalable web applications
-* 🧠 Improving problem-solving skills
-* 🏗️ Learning better software architecture
-* 🔐 Building secure applications
-* ⚡ Improving application performance
-* 🎨 Creating excellent user experiences
-* 🤝 Working with development teams
-* 🌍 Building software that solves real-world problems
-
----
 
 # 📊 GitHub Stats
 
