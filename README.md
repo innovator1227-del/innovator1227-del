@@ -16,11 +16,6 @@ Currently, I'm continuously improving my skills in **React, JavaScript, Node.js,
 * ⚛️ Strong interest in **React.js** and modern frontend development
 * 🛠️ Building backend applications with **Node.js & Express.js**
 * 🔐 Learning and implementing authentication, authorization, and secure APIs
-* 🎨 Interested in clean UI/UX and responsive design
-* 📦 Experienced with state management using **Zustand**
-* 🔄 Working with API data using **Axios & TanStack Query**
-* 🌱 Continuously learning and improving my software engineering skills
-* 🤝 Interested in collaborating on meaningful software projects
 
 ---
 
@@ -156,27 +151,6 @@ A web-based **car rental platform** designed to provide users with an easy way t
 
 The project focuses on creating a practical platform with a modern interface and structured backend architecture.
 
-
----
-
-# 📚 Currently Learning
-
-I'm continuously expanding my knowledge in:
-
-* Advanced React Architecture
-* Advanced JavaScript
-* Backend Architecture
-* REST API Design
-* MongoDB
-* Authentication & Authorization
-* Database Design
-* TypeScript
-* Testing
-* Performance Optimization
-* Scalable Application Architecture
-* Clean Code & Software Engineering Principles
-* Deployment & DevOps
-
 ---
 
 # 🎯 Development Goals
@@ -184,25 +158,6 @@ I'm continuously expanding my knowledge in:
 My goal is to become a strong **Full-Stack Software Engineer** capable of designing, developing, testing, and deploying production-ready applications.
 
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-![Tebie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
-
-</div>
 
 ---
 
@@ -213,7 +168,10 @@ I'm always interested in learning, collaborating, and building useful software.
 If you're working on an interesting project or looking for a developer to collaborate with, feel free to connect with me.
 
 <div align="center">
+## 🤝 Let's Connect
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ttegenew@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tebie-tegenew/)
 ### 💻 Build. Learn. Improve. Repeat.
 
 </div>
