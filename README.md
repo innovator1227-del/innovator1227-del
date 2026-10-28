@@ -4,8 +4,6 @@
 
 I'm a passionate **Full-Stack Developer** focused on building modern, responsive, scalable, and user-friendly web applications.
 
-I enjoy turning ideas into real-world products — from designing clean frontend interfaces to building REST APIs, authentication systems, dashboards, and database-driven applications.
-
 Currently, I'm continuously improving my skills in **React, JavaScript, Node.js, Express.js, REST APIs, databases, state management, and modern development tools.**
 
 ---
@@ -87,39 +85,6 @@ Currently, I'm continuously improving my skills in **React, JavaScript, Node.js,
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
 
 </div>
-
----
-
-# 💼 Technical Projects
-
-## 🛍️ HAHU Market
-
-### Second-Hand Marketplace Platform
-
-**HAHU Market** is a full-stack second-hand marketplace platform designed to connect buyers and sellers through a modern online marketplace.
-
-The platform focuses on product discovery, seller listings, authentication, categories, search, orders, and administrative management.
-
----
-
-## 🏪 Geberew Market
-
-### Marketplace & Buyer-Seller Platform
-
-**Geberew Market** is a marketplace application focused on connecting buyers with available listings through a clean and responsive browsing experience.
-
-The project includes buyer-focused functionality for discovering listings and interacting with marketplace content.
-
-
----
-
-## 🚗 Car Rental Platform
-
-### Online Car Rental Management Platform
-
-A web-based **car rental platform** designed to provide users with an easy way to browse available vehicles and manage rental-related operations.
-
-The project focuses on creating a practical platform with a modern interface and structured backend architecture.
 
 ---
 
