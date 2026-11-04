@@ -47,7 +47,7 @@ I'm a passionate **Full-Stack Developer** focused on building modern, responsive
 
 <div align="left">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)](https://images.seeklogo.com/logo-png/48/1/mongodb-logo-png_seeklogo-481256.png)
 </div>
 
 ---
