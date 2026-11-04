@@ -4,8 +4,6 @@
 
 I'm a passionate **Full-Stack Developer** focused on building modern, responsive, scalable, and user-friendly web applications.
 
-Currently, I'm continuously improving my skills in **React, JavaScript, Node.js, Express.js, REST APIs, databases, state management, and modern development tools.**
-
 ---
 
 ## 🚀 About Me
@@ -23,11 +21,8 @@ Currently, I'm continuously improving my skills in **React, JavaScript, Node.js,
 
 <div align="left">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white)
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black
+(https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)
 
@@ -53,8 +48,6 @@ Currently, I'm continuously improving my skills in **React, JavaScript, Node.js,
 <div align="left">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
 </div>
 
 ---
@@ -85,14 +78,6 @@ Currently, I'm continuously improving my skills in **React, JavaScript, Node.js,
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
 
 </div>
-
----
-
-# 🎯 Development Goals
-
-My goal is to become a strong **Full-Stack Software Engineer** capable of designing, developing, testing, and deploying production-ready applications.
-
-
 
 ---
 
