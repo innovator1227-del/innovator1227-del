@@ -66,22 +66,19 @@ I'm a passionate **Full-Stack Developer** focused on building modern, responsive
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 <div align="left">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+#  Let's Connect
 
 I'm always interested in learning, collaborating, and building useful software.
 
