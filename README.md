@@ -8,21 +8,21 @@ I'm a passionate **Full-Stack Developer** focused on building modern, responsive
 
 ## 🚀 About Me
 
-* 💻 Full-Stack Developer passionate about building real-world applications
-* ⚛️ Strong interest in **React.js** and modern frontend development
-* 🛠️ Building backend applications with **Node.js & Express.js**
-* 🔐 Learning and implementing authentication, authorization, and secure APIs
+*  Full-Stack Developer passionate about building real-world applications
+*  Strong interest in **React.js** and modern frontend development
+*  Building backend applications with **Node.js & Express.js**
+*  Learning and implementing authentication, authorization, and secure APIs
 
 ---
 
-# 🧑‍💻 Technical Skills
+# Technical Skills
 
-## 🎨 Frontend Development
+##  Frontend Development
 
 <div align="left">
 
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black
-(https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)
 
@@ -30,7 +30,7 @@ https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascr
 
 ---
 
-# ⚙️ Backend Development
+#  Backend Development
 
 <div align="left">
 
@@ -43,7 +43,7 @@ https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascr
 
 ---
 
-# 🗄️ Database & Data
+#  Database & Data
 
 <div align="left">
 
